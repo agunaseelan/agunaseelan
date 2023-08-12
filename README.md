@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This website serves as a digital resume that provides a glimpse into my journey and accomplishments. It is designed to be informative and visually appealing, reflecting my skills and interests.
+Assignment for CS 169A.
 
 ## Education
 
